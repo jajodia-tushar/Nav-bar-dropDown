@@ -1,5 +1,0 @@
-	To- Do Application
-	Use JSON for databases
-	Add, Edit,Delete functionality
-	Pop-up for edit.
-	
